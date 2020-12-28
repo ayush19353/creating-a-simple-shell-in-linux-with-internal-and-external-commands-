@@ -1,0 +1,16 @@
+
+all:
+	gcc ls1.c -o outp
+	gcc rm1.c -o outpy
+	gcc mkdir.c -o outputmkdir
+	gcc cat1.c -o outputcat
+	gcc date1.c -o outputdate
+	gcc -o gg overall.c -lreadline
+clean:
+	rm outputdate
+	rm outputmkdir
+	rm outputcat
+	rm outpy
+	rm outp
+	rm gg
+

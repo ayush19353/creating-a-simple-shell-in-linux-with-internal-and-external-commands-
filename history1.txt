@@ -1,0 +1,18 @@
+exit
+f
+e
+fef
+r
+ddre
+d
+fddf
+vdd df
+history
+history -c
+history
+exit
+history
+exit
+history
+cd ..
+history
